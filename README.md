@@ -1,0 +1,2 @@
+# Sentimental-Analysis-of-Customer-on-Amazon-Dataset
+Convolutional neural networks (CNN) was used in order to analyze the sentiment of the customer based on his product reviews. convolutional neural network (CNN, or ConvNet) is a class of ​ Supervised deep neural networks​ , most commonly applied to analyzing visual imagery and text classification. RNN is also one of the Supervised Deep Neural Networks which can be used to analyze the sentiments of the customer. Many-to-One Model is the RNN architecture used for Sentimental Analysis.
